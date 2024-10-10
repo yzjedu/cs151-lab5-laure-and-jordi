@@ -4,5 +4,4 @@
 
 
 SENTINEL = 'e'
-balance = 1000
-
+balance = 100
